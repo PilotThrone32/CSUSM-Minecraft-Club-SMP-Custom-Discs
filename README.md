@@ -31,10 +31,18 @@ Server
 
 3. Drag the DP zip file into the datapack folder.
 
-4. Add the RP zip file into your resourcepack folder
+4. Upload RP to upload the pack to a direct download file host (https://mc-packs.net/)
 
-5. Enter your Minecraft Server
+5. Go to your server.properties file
 
-6. Have operator or use server console and run /reload
+6. Copy resource-pack= link and resource-pack-sha1= code from direct download file host into the corresponding location on server.properties
 
-7. Done!
+7. Restart Server
+
+8. Enter your Minecraft Server
+
+9. Download Resource Pack when prompted
+
+10. Have operator or use server console and run /reload
+
+11. Done!
