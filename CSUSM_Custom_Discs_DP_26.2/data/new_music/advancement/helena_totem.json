@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "totem": {
+      "trigger": "minecraft:used_totem",
+      "conditions": {
+        "item": {
+          "items": "minecraft:totem_of_undying"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "new_music:reward_helena"
+  }
+}

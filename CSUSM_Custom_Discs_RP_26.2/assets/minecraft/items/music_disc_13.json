@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_13"
+    },
+    "cases": [
+      {
+        "when": "chihiro0",
+        "model": {
+          "type": "model",
+          "model": "item/chihiro0"
+        }
+      },
+      {
+        "when": "rain1",
+        "model": {
+          "type": "model",
+          "model": "item/rain1"
+        }
+      },
+      {
+        "when": "kiss_the_ladder2",
+        "model": {
+          "type": "model",
+          "model": "item/kiss_the_ladder2"
+        }
+      },
+      {
+        "when": "helena3",
+        "model": {
+          "type": "model",
+          "model": "item/helena3"
+        }
+      },
+      {
+        "when": "they_don_t_know__bout_us4",
+        "model": {
+          "type": "model",
+          "model": "item/they_don_t_know__bout_us4"
+        }
+      }
+    ]
+  }
+}

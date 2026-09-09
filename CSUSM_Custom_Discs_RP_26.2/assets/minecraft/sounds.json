@@ -1,0 +1,42 @@
+{
+  "music_disc.chihiro0": {
+    "sounds": [
+      {
+        "name": "records/music_disc_chihiro0",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.rain1": {
+    "sounds": [
+      {
+        "name": "records/music_disc_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.kiss_the_ladder2": {
+    "sounds": [
+      {
+        "name": "records/music_disc_kiss_the_ladder2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.helena3": {
+    "sounds": [
+      {
+        "name": "records/music_disc_helena3",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.they_don_t_know__bout_us4": {
+    "sounds": [
+      {
+        "name": "records/music_disc_they_don_t_know__bout_us4",
+        "stream": true
+      }
+    ]
+  }
+}
