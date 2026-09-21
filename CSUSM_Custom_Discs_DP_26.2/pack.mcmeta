@@ -1,7 +1,6 @@
 {
   "pack": {
     "description": "Data Pack for all Custom Music Discs on SMP",
-    "min_format": [107, 1],
-    "max_format": [107, 1]
+    "pack_format": 121.0
   }
 }
