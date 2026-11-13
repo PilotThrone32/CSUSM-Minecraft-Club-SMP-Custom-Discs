@@ -1,8 +1,8 @@
 {
   "comparator_output": 1,
-  "description": {"text": "My Chemical Romance - Helena"},
-  "length_in_seconds": 204.753562,
+  "description": {"text": "Billie Eilish - CHIHIRO"},
+  "length_in_seconds": 303.48,
   "sound_event": {
-    "sound_id": "minecraft:music_disc.helena3"
+    "sound_id": "minecraft:music_disc.chihiro0"
   }
 }
