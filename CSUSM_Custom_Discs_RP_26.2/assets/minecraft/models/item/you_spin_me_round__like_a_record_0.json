@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/you_spin_me_round__like_a_record_0"
+  }
+}

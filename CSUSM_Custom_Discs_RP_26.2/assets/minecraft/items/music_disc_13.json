@@ -41,6 +41,13 @@
           "type": "model",
           "model": "item/they_don_t_know__bout_us4"
         }
+      },
+      {
+        "when": "you_spin_me_round__like_a_record_0",
+        "model": {
+          "type": "model",
+          "model": "item/you_spin_me_round__like_a_record_0"
+        }
       }
     ]
   }

@@ -38,5 +38,13 @@
         "stream": true
       }
     ]
+  },
+  "music_disc.you_spin_me_round__like_a_record_0": {
+    "sounds": [
+      {
+        "name": "records/music_disc_you_spin_me_round__like_a_record_0",
+        "stream": true
+      }
+    ]
   }
 }
